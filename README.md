@@ -10,3 +10,5 @@ This addon is for **RIFT CLIENT VERSION 12.41 ONLY.**
 ## Requirements:
 
 .Net Runtime 6.12 x64
+Windows 10/11 x86/x64 
+aarch64 [ARM] systems are NOT SUPPORTED.
